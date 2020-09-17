@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "854583857304",
+    "firebase_url": "https://beerman-e24c3.firebaseio.com",
+    "project_id": "beerman-e24c3",
+    "storage_bucket": "beerman-e24c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854583857304:android:ebacc710f70e3fe8da80ed",
+        "android_client_info": {
+          "package_name": "com.hds.beermam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854583857304-gtk7j7mfbv0enl1kg5hit7g7vct6qjql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP-C8BpEPAVWtmMcolbOPM8qNWOxXIZcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854583857304-gtk7j7mfbv0enl1kg5hit7g7vct6qjql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
